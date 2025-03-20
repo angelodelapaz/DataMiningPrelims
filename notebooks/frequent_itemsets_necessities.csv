@@ -1,0 +1,52 @@
+support,itemsets
+0.3300049457967411,frozenset({'Non-Necessities Total_Low'})
+0.329971528251193,frozenset({'Necessities Total_Medium'})
+0.2088529761666065,frozenset({'NPCINC_High'})
+0.4141703760142225,frozenset({'NPCINC_Medium'})
+0.3399901084065178,frozenset({'Non-Necessities Total_High'})
+0.340003475424737,frozenset({'Necessities Total_High'})
+0.3300049457967411,frozenset({'Non-Necessities Total_Medium'})
+0.33002499632407,frozenset({'Necessities Total_Low'})
+0.37697664781917095,frozenset({'NPCINC_Low'})
+0.11637994412586385,"frozenset({'NPCINC_Medium', 'Non-Necessities Total_Low'})"
+0.19120851211720202,"frozenset({'Necessities Total_Low', 'Non-Necessities Total_Low'})"
+0.04183208351712983,"frozenset({'Necessities Total_High', 'Non-Necessities Total_Low'})"
+0.1777612917886407,"frozenset({'NPCINC_Low', 'Non-Necessities Total_Low'})"
+0.05422330940637072,"frozenset({'Necessities Total_Low', 'NPCINC_Medium', 'Non-Necessities Total_Low'})"
+0.020317867693253666,"frozenset({'Necessities Total_High', 'NPCINC_Medium', 'Non-Necessities Total_Low'})"
+0.12792904786729226,"frozenset({'NPCINC_Low', 'Necessities Total_Low', 'Non-Necessities Total_Low'})"
+0.09696435016240927,"frozenset({'Necessities Total_Medium', 'Non-Necessities Total_Low'})"
+0.1521233508441272,"frozenset({'Necessities Total_Medium', 'NPCINC_Medium'})"
+0.1019301974308591,"frozenset({'Non-Necessities Total_High', 'Necessities Total_Medium'})"
+0.13107698065792464,"frozenset({'Non-Necessities Total_Medium', 'Necessities Total_Medium'})"
+0.12924569916188797,"frozenset({'Necessities Total_Medium', 'NPCINC_Low'})"
+0.041838767026239454,"frozenset({'Necessities Total_Medium', 'NPCINC_Medium', 'Non-Necessities Total_Low'})"
+0.043068532702410074,"frozenset({'Necessities Total_Medium', 'NPCINC_Low', 'Non-Necessities Total_Low'})"
+0.051576639798960044,"frozenset({'Non-Necessities Total_High', 'Necessities Total_Medium', 'NPCINC_Medium'})"
+0.02700137680287658,"frozenset({'Non-Necessities Total_High', 'Necessities Total_Medium', 'NPCINC_Low'})"
+0.0587079440189277,"frozenset({'Non-Necessities Total_Medium', 'Necessities Total_Medium', 'NPCINC_Medium'})"
+0.0591757896566013,"frozenset({'Non-Necessities Total_Medium', 'Necessities Total_Medium', 'NPCINC_Low'})"
+0.04860247824517785,"frozenset({'NPCINC_High', 'Necessities Total_Medium'})"
+0.03586370988223657,"frozenset({'NPCINC_High', 'Non-Necessities Total_Low'})"
+0.1415968239964711,"frozenset({'NPCINC_High', 'Necessities Total_High'})"
+0.12620470251700952,"frozenset({'NPCINC_High', 'Non-Necessities Total_High'})"
+0.04678456376736041,"frozenset({'NPCINC_High', 'Non-Necessities Total_Medium'})"
+0.02335218082902247,"frozenset({'NPCINC_High', 'Non-Necessities Total_High', 'Necessities Total_Medium'})"
+0.09823421689323762,"frozenset({'NPCINC_High', 'Non-Necessities Total_High', 'Necessities Total_High'})"
+0.028612102498295704,"frozenset({'NPCINC_High', 'Non-Necessities Total_Medium', 'Necessities Total_High'})"
+0.15796473780593762,"frozenset({'Non-Necessities Total_High', 'NPCINC_Medium'})"
+0.20200237932924303,"frozenset({'Non-Necessities Total_High', 'Necessities Total_High'})"
+0.0558206680835706,"frozenset({'Non-Necessities Total_High', 'NPCINC_Low'})"
+0.092626752750264,"frozenset({'Non-Necessities Total_High', 'Necessities Total_High', 'NPCINC_Medium'})"
+0.16615871997433532,"frozenset({'Necessities Total_High', 'NPCINC_Medium'})"
+0.032247931453930574,"frozenset({'NPCINC_Low', 'Necessities Total_High'})"
+0.13982569408242104,"frozenset({'Non-Necessities Total_Medium', 'NPCINC_Medium'})"
+0.09616901257836415,"frozenset({'Non-Necessities Total_Medium', 'Necessities Total_High'})"
+0.10275895256045234,"frozenset({'Non-Necessities Total_Medium', 'Necessities Total_Low'})"
+0.14339468794695967,"frozenset({'Non-Necessities Total_Medium', 'NPCINC_Low'})"
+0.05321409953081766,"frozenset({'Non-Necessities Total_Medium', 'Necessities Total_High', 'NPCINC_Medium'})"
+0.027903650532675676,"frozenset({'Non-Necessities Total_Medium', 'NPCINC_Medium', 'Necessities Total_Low'})"
+0.0698760877411076,"frozenset({'Non-Necessities Total_Medium', 'NPCINC_Low', 'Necessities Total_Low'})"
+0.03605753164641563,"frozenset({'Non-Necessities Total_High', 'Necessities Total_Low'})"
+0.09588830519575998,"frozenset({'NPCINC_Medium', 'Necessities Total_Low'})"
+0.21548301720335244,"frozenset({'NPCINC_Low', 'Necessities Total_Low'})"
